@@ -21,4 +21,4 @@ Hands-free virtual keyboard using computer vision and NLP.
 - [ ] Demo
 
 ## License
-MIT License © 2025 [Jeevan W Prakash]
+MIT License © 2025 Jeevan W Prakash
